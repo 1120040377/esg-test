@@ -7,8 +7,7 @@
           {{ option }}
         </div>
       </div>
-      <div>参考答案：{{ q.answer.join(',') }}</div>
-      <div>说明：{{ q.description }}</div>
+      <div class="question-tips">说明：{{ q.description }}</div>
     </div>
   </n-card>
 
@@ -40,6 +39,12 @@ const q = computed(() => {
     font-size: 14px;
     padding: 5px 0;
     cursor: pointer;
+  }
+
+  &-tips {
+    margin-top: 12px;
+    color: #999;
+    font-size: 12px;
   }
 
 }

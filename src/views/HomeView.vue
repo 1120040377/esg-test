@@ -1,7 +1,6 @@
 <template>
   <div class="page">
     <div class="page-header">
-      
       <n-button>重置</n-button>
       <n-button style="margin-left: 12px" type="primary" @click="actionSubmit">提交</n-button>
     </div>
@@ -29,7 +28,8 @@
 
 <script setup>
 import Question from '@/components/question.vue'
-import QN from '@/assets/data.js'
+// import QN from '@/assets/data.js'
+import QN from '@/assets/data2.js'
 import { ref } from 'vue';
 const qnList = ref([])
 const showModal = ref(false)
@@ -73,6 +73,7 @@ function actionSubmit() {
   padding-top: 60px;
 
   &-header {
+    z-index: 10;
     height: 60px;
     background-color: #FFF;
     position: fixed;
