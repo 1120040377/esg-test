@@ -782,6 +782,66 @@ export default [
   {
     no: "79",
     options: [
+      "A. equity investment",
+      "B. bond investment",
+      "C. real estate investment",
+    ],
+    title: "Friede, Busch, and Bassen' study shows that positive effect of ESG is mostsignificant on returns of:",
+    description: "哪一类资产参与的价值更高? (选项 real estate/ private debt/ 基建类)"
+  },
+  {
+    no: "80",
+    options: [
+      "A. Germany",
+      "B. US",
+      "C. UK",
+    ],
+    title: "The practice of stewardship was first adopted in which of the followingcountries?",
+    description: "Stewardship 最早在哪个国家使用 (选项 德国 / 美国 / 英国)"
+  },
+  {
+    no: "81",
+    options: [
+      "A. write a letter to all companies affected by an ESG issue",
+      "B. seek a direct discussion with senior management",
+      "C. vote on specific issues",
+    ],
+    title: "Which of the following is most likely a typical engagement method for passiveinvestors?",
+    description: "最符合 Passive investor参与的方式是? (选项: write a letter to companies which  was found a ESG risk issue/ seek a direct discussion with senior management/ vote  on specific issues)"
+  },
+  {
+    no: "82",
+    options: [
+      "A. An increase in operating expenses",
+      "B. An immediate increase in asset write-off",
+      "C. An increase in the value of company's corporate debt",
+    ],
+    title: "Given that a company is facing imminent enforcement of environmentalstandards, the most likely impact would be:",
+    description: "已知公司面临着马上就要实施的关于保护环境条例 environmental standard的处罚,  最有可能产生的影响是 (选项 increase provision / increase asset write-off/increase debt)"
+  },
+  {
+    no: "83",
+    options: [
+      "A. fragmented",
+      "B. harmonized",
+      "C. mandatory",
+    ],
+    title: "Globally, ESG disclosure framework is:",
+    description: "全球的 ESG 披露标准是 (选项 fragment 和谐的 强制的)"
+  },
+  {
+    no: "84",
+    options: [
+      ". Deal Sourcing",
+      "B. Ownership",
+      "C. Exit",
+    ],
+    title: "As part of ESG assessment for private equity, at which stage does the process ofESG screening and due diligence take place?",
+    description: "ESG Integration in Private Equity 方面 screening and due diligence 在哪个阶段"
+  },
+  {
+    no: "85",
+    options: [
       "A. Scorecards translate qualitative judgments into numerical scores",
       "B. The scorecard techniques are hardly used on private companies",
       "C. The scorecard technique can be adapted to scoring sovereign bonds"
@@ -790,7 +850,7 @@ export default [
     description: "哪一个说法是正确的 (选项 Scorecards 可以用于 sovereign bond analysis)"
   },
   {
-    no: "80",
+    no: "86",
     options: [
       "A. There exists a low correlation among third-party credit ratings",
       "B. Study shows a significant correlation between country ESG risk and credit ratings",
@@ -800,7 +860,7 @@ export default [
     description: "下列哪个说法是对的 (选项 不同评级机构给的 ESG 评分相关性高 不同评级机构给的信用评分相关性低 high correlation of Country ESG Scores and CRA Ratings)"
   },
   {
-    no: "81",
+    no: "87",
     options: [
       "A. Private Debt",
       "B. Sovereign Debt",
@@ -810,7 +870,7 @@ export default [
     description: "哪一类资产整合会涉及 anti-corruption (选项 private debt/ sovereign debt/infrastructure)"
   },
   {
-    no: "82",
+    no: "88",
     options: [
       "A. lower cost of capital",
       "B. lower target P/E ratio",
@@ -820,7 +880,7 @@ export default [
     description: "一家公司 ESG Risk 更高导致的结果是 (选项 lower PE)"
   },
   {
-    no: "83",
+    no: "89",
     options: [
       "A. Bonds that finance projects with an intended environmental benefit",
       "B. Bonds that are evergreen and continue for a specified duration",
@@ -830,7 +890,7 @@ export default [
     description: "绿色债券的定义 (选项 finance projects with an intended environmental benefit)"
   },
   {
-    no: "84",
+    no: "90",
     options: [
       "A. Add securities with high ESG risks or opportunities to a list for monitoring",
       "B. Investors ask the company for specific data on its material ESG information",
@@ -840,7 +900,7 @@ export default [
     description: "Red flag indicators 定义 (选项 Securities with high ESG risk are flagged and investigated further or excluded)"
   },
   {
-    no: "85",
+    no: "91",
     options: [
       "A. Yellow",
       "B. Light green",
@@ -850,7 +910,7 @@ export default [
     description: "风能项目属于什么 (选项 Dark green)"
   },
   {
-    no: "86",
+    no: "92",
     options: [
       "A. traditional providers only",
       "B. nontraditional providers only",
@@ -860,7 +920,7 @@ export default [
     description: "ESG数据的自动化程度：高/低 (9月新增)"
   },
   {
-    no: "87",
+    no: "93",
     options: [
       "A. Customer welfare",
       "B. Market competition behavior",
@@ -870,7 +930,7 @@ export default [
     description: "SASB materiality map 里 Healthcare industry 最重要的 ESG factor, (选项 Customer Welfare/ market competition, GHG emission)"
   },
   {
-    no: "88",
+    no: "94",
     options: [
       "A. Company A —— it has no emission policy and reports high air pollution",
       "B. Company B —— it has a brief emission policy and reports no pollution incidents",
@@ -880,7 +940,7 @@ export default [
     description: "有一个题给了一个表格, 问哪个国家 have the lowest ESG risk"
   },
   {
-    no: "89",
+    no: "95",
     options: [
       "A. measure companies' ESG performance and risks from reported incidents",
       "B. interpret satellite imagery to assess issuers' carbon footprint",
@@ -890,7 +950,7 @@ export default [
     description: "API 在量化 ESG analysis 中应用的作用是什么? (use application programming interfaces to compile and assess large volumes of data efficiently)"
   },
   {
-    no: "90",
+    no: "96",
     options: [
       "A. low risk",
       "B. medium risk",
@@ -900,7 +960,7 @@ export default [
     description: "如果一个科技公司目前正处于技术研究和研发阶段且还没有推出市场化的产品，该公司没有考虑数据信息安全与客户隐私保护，那么以下关于风险等级的论述哪项是正确的? (Low risk, Medium risk, High risk)"
   },
   {
-    no: "91",
+    no: "97",
     options: [
       "A. higher active risk",
       "B. lower active risk",
@@ -910,7 +970,7 @@ export default [
     description: "多因子优化导致 portfolios that optimize for multiple factors (选项 higher active risk)"
   },
   {
-    no: "92",
+    no: "98",
     options: [
       "A. fundamental investment",
       "B. quantitative investment",
@@ -920,7 +980,7 @@ export default [
     description: "投资特征为 Rule-based, big datasets 属于什么方式 (选项 quantitative/fundamental/ discretionary)"
   },
   {
-    no: "93",
+    no: "99",
     options: [
       "A. sustainability bond",
       "B. social bond",
@@ -930,7 +990,7 @@ export default [
     description: "发行债券用于公司特定环境绩效改善，属于?(选项 SLBs)"
   },
   {
-    no: "94",
+    no: "100",
     options: [
       "A. A broader investment universe",
       "B. High active share and active risk",
@@ -940,7 +1000,7 @@ export default [
     description: "exclusions 排除法导致? (选项 high active share and active risk)"
   },
   {
-    no: "95",
+    no: "101",
     options: [
       "A. a lower fee structure compared to traditional index-based portfolio",
       "B. a lower fee structure compared to actively managed funds",
@@ -950,7 +1010,7 @@ export default [
     description: "ESG指数投资的特点 (选项 比主动投资成本低，更简单，比传统被动投资成本高)"
   },
   {
-    no: "96",
+    no: "102",
     options: [
       "A. universal exclusions",
       "B. conduct-related exclusions",
@@ -960,7 +1020,7 @@ export default [
     description: "争议性武器排除属于什么策略? (选项 Universal exclusions)"
   },
   {
-    no: "97",
+    no: "103",
     options: [
       "A. Real estate",
       "B. Private equity",
@@ -970,7 +1030,7 @@ export default [
     description: "根据 Mercer 哪一类资产 Availability of Sustainability 最高 (选项 Real estate/Private equity/ Infrastructure)"
   },
   {
-    no: "98",
+    no: "104",
     options: [
       "A. lowering GHG emissions",
       "B. clean energy projects",
@@ -980,7 +1040,7 @@ export default [
     description: "Transition bond 最可能投资方向是 (选项 降低GHG emission/ 清洁能源 / Social)"
   },
   {
-    no: "99",
+    no: "105",
     options: [
       "A. high sensitivity to baseline assumptions",
       "B. ability to reflect changes in baseline assumptions over different time horizons",
@@ -990,7 +1050,7 @@ export default [
     description: "MVO 模型的特点是 (选项 high sensitivity to baseline assumptions)"
   },
   {
-    no: "100",
+    no: "106",
     options: [
       "A. consider stewardship and engagement activities",
       "B. apply consistent sustainability ratings between funds",
@@ -1000,7 +1060,7 @@ export default [
     description: "为什么要使用 peer group data (选项 prevents wholesale exclusions of poorly rated industries)"
   },
   {
-    no: "101",
+    no: "107",
     options: [
       "A. underperform when economic cycle contracts",
       "B. often used to hedge against inflation",
@@ -1010,7 +1070,7 @@ export default [
     description: "water funds 的特点是 (选项 hedges against inflation)"
   },
   {
-    no: "102",
+    no: "108",
     options: [
       "A. transition bond",
       "B. sustainability-linked bond",
@@ -1020,7 +1080,7 @@ export default [
     description: "公司花钱让员工 transition to a safer workplace 发债属于什么债券? (选项 transition bond/SLB/ social bond)"
   },
   {
-    no: "103",
+    no: "109",
     options: [
       "A. negative screening",
       "B. positive screening",
@@ -1030,7 +1090,7 @@ export default [
     description: "实现 diversified portfolio要用哪种 screening 方式呢? (选项 Positive screening/Thematic investment/ negative screening)"
   },
   {
-    no: "104",
+    no: "110",
     options: [
       "A. CEOs and shareholders",
       "B. CEOs and company employees",
@@ -1040,7 +1100,7 @@ export default [
     description: "double-agency 是哪两个代理 (选项 CEO and money manager)"
   },
   {
-    no: "105",
+    no: "111",
     options: [
       "A. by voting",
       "B. through governance arrangements",
@@ -1050,7 +1110,7 @@ export default [
     description: "投资 private debt, 如何 effective engagement (选项 Voting/ ongoing dialogue)"
   },
   {
-    no: "106",
+    no: "112",
     options: [
       "A. Fiduciary duty",
       "B. Reputational risk",
@@ -1060,7 +1120,7 @@ export default [
     description: "Primary driver for ESG investment of Sovereign wealth fund is? (选项 reputation risk)"
   },
   {
-    no: "107",
+    no: "113",
     options: [
       "A. Reputational risk",
       "B. Awareness of the financial impacts of climate change",
@@ -1070,7 +1130,7 @@ export default [
     description: "Primary driver for ESG investment of Life insurer is? (选项 Recognition of implications of lengthy investment time horizons/ Reputational risk/ Awareness of financial impacts of climate change)"
   },
   {
-    no: "108",
+    no: "114",
     options: [
       "A. The Brunel Asset Management Accord",
       "B. The International Corporate Governance Network (ICGN)",
@@ -1080,7 +1140,7 @@ export default [
     description: "哪个建议不要注重短期收益 emphasizes that short-term underperformance is not itself likely to give rise to undue concern for the client (选项 Brunel Asset Management Accord)"
   },
   {
-    no: "109",
+    no: "115",
     options: [
       "A. proactive engagement",
       "B. Review of external managers",
@@ -1088,66 +1148,6 @@ export default [
     ],
     title: "According to McKinsey's proposed six dimensions of investing, which of the following is an element of investment tools and processes dimension?",
     description: "下列哪一个属于 McKinsey的 Tools and processes (选项 Proactive engagement/Review of external managers)"
-  },
-  {
-    no: "110",
-    options: [
-      "A. investment beliefs and strategy",
-      "B. investment mandate",
-      "C. performance management"
-    ],
-    title: "According to McKinsey's report, Consideration of ESG factors is included in which of the following investment dimensions?",
-    description: "在 McKinsey的框架中 Consideration of ESG factors属于哪个维度 (选项Investment mandate)"
-  },
-  {
-    no: "111",
-    options: [
-      "A. general insurer",
-      "B. individual investor",
-      "C. foundation"
-    ],
-    title: "Which of the following asset owners features the longest investment time horizon?",
-    description: "Investment time horizon 最长的 asset owner是? (选项 foundation)"
-  },
-  {
-    no: "112",
-    options: [
-      "A. Fiduciary duty",
-      "B. Reputational risk",
-      "C. Awareness of the financial impacts of climate change"
-    ],
-    title: "Which of the following is most likely the primary driver of ESG investment for a defined benefit pension scheme?",
-    description: "Primary driver for Defined Benefit Pension and defined contribution pension 是? (选项: Fiduciary duty)"
-  },
-  {
-    no: "113",
-    options: [
-      "A. defined benefit pension scheme",
-      "B. individual investor",
-      "C. sovereign wealth fund"
-    ],
-    title: "Loss aversion best describes the risk mindset of which of the following client types?",
-    description: "以下哪个是最 loss aversion的? (选项: 慈善捐赠/ 个人 /主权基金)"
-  },
-  {
-    no: "114",
-    options: [
-      "A. question i",
-      "B. question ii",
-      "C. both questions"
-    ],
-    title: "A fund manager needs to address which of the following question(s) in shaping an investment mandate?",
-    description: "在 mandate 中需要问什么问题 Is ESG a risk management tool or a source of investment advantage? Which aspects of ESG most matter from the perspective of the asset owner? (选项：第一个问题/第二个问题/两个问题都问)"
-  },
-  {
-    no: "115",
-    options: [
-      "A. The Brunel Asset Management Accord",
-      "B. The International Corporate Governance Network (ICGN)",
-      "C. Principle of Responsible Investment (PRI) guidelines"
-    ],
-    title: "Which of the following suggests that short-term underperformance should not be a primary concern for the client?",
-    description: "下列哪一个建议不要注重短期收益 emphasizes that short-term underperformance is not itself likely to give rise to undue concern for the client (选项 Brunel Asset Management Accord)"
   },
   {
     no: "116",
@@ -1177,7 +1177,7 @@ export default [
       "C. Awareness of the financial impacts of climate change"
     ],
     title: "Which of the following is most likely the primary driver of ESG investment for a defined benefit pension scheme?",
-    description: "Primary driver for Defined Benefit Pension 和 defined contribution pension 是? (选项: Fiduciary duty)"
+    description: "Primary driver for Defined Benefit Pension and defined contribution pension 是? (选项: Fiduciary duty)"
   },
   {
     no: "119",
@@ -1198,5 +1198,5 @@ export default [
     ],
     title: "A fund manager needs to address which of the following question(s) in shaping an investment mandate?",
     description: "在 mandate 中需要问什么问题 Is ESG a risk management tool or a source of investment advantage? Which aspects of ESG most matter from the perspective of the asset owner? (选项：第一个问题/第二个问题/两个问题都问)"
-  }
+  },
 ]
