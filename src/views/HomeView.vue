@@ -1,7 +1,7 @@
 <template>
   <div class="page">
     <div class="page-header">
-      <n-button>重置</n-button>
+      <n-button @click="reloadPage">重置</n-button>
       <n-button style="margin-left: 12px" type="primary" @click="actionSubmit">提交</n-button>
     </div>
     <n-modal v-model:show="showModal">
@@ -35,6 +35,7 @@ const qnList = ref([])
 const showModal = ref(false)
 reloadPage()
 function reloadPage() {
+  qnList.value = []
   QN.forEach(item => {
     qnList.value.push({
       questionId: Math.random().toString(36).substr(2),
@@ -52,7 +53,7 @@ function actionSubmit() {
   let curArr = []
   qnList.value.forEach((item, index) => {
     curArr.push({
-      no: String(index + 1),
+      no: item.no,
       val: noList[item.checked] || '-'
     })
 
