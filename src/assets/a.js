@@ -769,12 +769,191 @@
           "标题": "Which of the following activities could most likely enhance the long-term value for investors?",
           "描述": "下列哪个能为投资者 enhance value (选项 engagement/ monitor/)"
         },
-        {
-          "题号": "78",
-          "选项列表": [
-            "A. Voting is a necessary but not sufficient element of good stewardship",
-            "B. An active investor concerned about the financial viability of a business would vote on auditor pay",
-            "C. An active investor concerned about the effectiveness of board would vote on share issuance"
-          ],
-          "标题": "Which of the following statements is most likely correct about voting?",
-          "描述": "关于 voting 哪个说法是对的 (选项 Voting is a necessary but not sufficient element of good stewardship/ 担心一家公司财务的稳健性 financial viability ,
+          {
+            "题号": "78",
+            "选项列表": [
+              "A. Voting is a necessary but not sufficient element of good stewardship",
+              "B. An active investor concerned about the financial viability of a business would vote on auditor pay",
+              "C. An active investor concerned about the effectiveness of the board would vote on share issuance"
+            ],
+            "标题": "Which of the following statements is most likely correct about voting?",
+            "描述": "关于 voting 哪个说法是对的 (选项 Voting is a necessary but not sufficient element of good stewardship/ 担心一家公司财务的稳健性 financial viability ,要在公司改变外部审计的提案上多关注)"
+          },
+          {
+            "题号": "79",
+            "选项列表": [
+              "A. Scorecards translate qualitative judgments into numerical scores",
+              "B. The scorecard techniques are hardly used on private companies",
+              "C. The scorecard technique can be adapted to scoring sovereign bonds"
+            ],
+            "标题": "Regarding the use of scorecards, which of the following statements is least likely correct?",
+            "描述": "哪一个说法是正确的 (选项 Scorecards 可以用于 sovereign bond analysis)"
+          },
+          {
+            "题号": "80",
+            "选项列表": [
+              "A. There exists a low correlation among third-party credit ratings",
+              "B. Study shows a significant correlation between country ESG risk and credit ratings",
+              "C. There exists a high correlation among third-party ESG ratings"
+            ],
+            "标题": "Which of the following statements is most accurate?",
+            "描述": "下列哪个说法是对的 (选项 不同评级机构给的 ESG 评分相关性高 不同评级机构给的信用评分相关性低 high correlation of Country ESG Scores and CRA Ratings)"
+          },
+          {
+            "题号": "81",
+            "选项列表": [
+              "A. Private Debt",
+              "B. Sovereign Debt",
+              "C. Infrastructure"
+            ],
+            "标题": "In the context of ESG integration, which asset class is most likely to explicitly involve considerations of anti-corruption measures?",
+            "描述": "哪一类资产整合会涉及 anti-corruption (选项 private debt/ sovereign debt/infrastructure)"
+          },
+          {
+            "题号": "82",
+            "选项列表": [
+              "A. lower cost of capital",
+              "B. lower target P/E ratio",
+              "C. lower estimated capital expenditures"
+            ],
+            "标题": "If a company increases its ESG risk compared to its peers, the most appropriate adjustment to valuation models would be to reduce its:",
+            "描述": "一家公司 ESG Risk 更高导致的结果是 (选项 lower PE)"
+          },
+          {
+            "题号": "83",
+            "选项列表": [
+              "A. Bonds that finance projects with an intended environmental benefit",
+              "B. Bonds that are evergreen and continue for a specified duration",
+              "C. Bonds that get the green light based on governance policies"
+            ],
+            "标题": "Which of the following statements best describes a green bond?",
+            "描述": "绿色债券的定义 (选项 finance projects with an intended environmental benefit)"
+          },
+          {
+            "题号": "84",
+            "选项列表": [
+              "A. Add securities with high ESG risks or opportunities to a list for monitoring",
+              "B. Investors ask the company for specific data on its material ESG information",
+              "C. Securities with high ESG risk are marked and further investigated or excluded"
+            ],
+            "标题": "Which of the following best describes red flag indicators?",
+            "描述": "Red flag indicators 定义 (选项 Securities with high ESG risk are flagged and investigated further or excluded)"
+          },
+          {
+            "题号": "85",
+            "选项列表": [
+              "A. Yellow",
+              "B. Light green",
+              "C. Dark green"
+            ],
+            "标题": "A sustainability bond funding a company that develops and manufactures wind power equipment would be graded by CICERO as:",
+            "描述": "风能项目属于什么 (选项 Dark green)"
+          },
+          {
+            "题号": "86",
+            "选项列表": [
+              "A. traditional providers only",
+              "B. nontraditional providers only",
+              "C. both traditional providers and nontraditional providers"
+            ],
+            "标题": "With respect to ESG data and research providers, the level of automation is low or medium in:",
+            "描述": "ESG数据的自动化程度：高/低 (9月新增)"
+          },
+          {
+            "题号": "87",
+            "选项列表": [
+              "A. Customer welfare",
+              "B. Market competition behavior",
+              "C. GHG emission"
+            ],
+            "标题": "According to SASB materiality map, which of the following is considered the most significant ESG factor for Healthcare industry?",
+            "描述": "SASB materiality map 里 Healthcare industry 最重要的 ESG factor, (选项 Customer Welfare/ market competition, GHG emission)"
+          },
+          {
+            "题号": "88",
+            "选项列表": [
+              "A. Company A —— it has no emission policy and reports high air pollution",
+              "B. Company B —— it has a brief emission policy and reports no pollution incidents",
+              "C. Company C —— it has a detailed emission policy and reports minor air pollution"
+            ],
+            "标题": "Which of the following companies is likely to have the lowest ESG risk?",
+            "描述": "有一个题给了一个表格, 问哪个国家 have the lowest ESG risk"
+          },
+          {
+            "题号": "89",
+            "选项列表": [
+              "A. measure companies' ESG performance and risks from reported incidents",
+              "B. interpret satellite imagery to assess issuers' carbon footprint",
+              "C. aggregate ESG data into an ESG score"
+            ],
+            "标题": "Which of the following is most likely an example of using application programming interfaces (API) in quantitative ESG analysis?",
+            "描述": "API 在量化 ESG analysis 中应用的作用是什么? (use application programming interfaces to compile and assess large volumes of data efficiently)"
+          },
+          {
+            "题号": "90",
+            "选项列表": [
+              "A. low risk",
+              "B. medium risk",
+              "C. high risk"
+            ],
+            "标题": "If the company has not considered data privacy and customer information protection, then its risk level is most likely?",
+            "描述": "如果一个科技公司目前正处于技术研究和研发阶段且还没有推出市场化的产品，该公司没有考虑数据信息安全与客户隐私保护，那么以下关于风险等级的论述哪项是正确的? (Low risk, Medium risk, High risk)"
+          },
+          {
+            "题号": "91",
+            "选项列表": [
+              "A. higher active risk",
+              "B. lower active risk",
+              "C. no active risk"
+            ],
+            "标题": "Portfolios that optimize for multiple factors might result in:",
+            "描述": "多因子优化导致 portfolios that optimize for multiple factors (选项 higher active risk)"
+          },
+          {
+            "题号": "92",
+            "选项列表": [
+              "A. fundamental investment",
+              "B. quantitative investment",
+              "C. discretionary investment"
+            ],
+            "标题": "An investment style characterized by rule-based approach and usage of large datasets is most likely defined as:",
+            "描述": "投资特征为 Rule-based, big datasets 属于什么方式 (选项 quantitative/fundamental/ discretionary)"
+          },
+          {
+            "题号": "93",
+            "选项列表": [
+              "A. sustainability bond",
+              "B. social bond",
+              "C. blue bond"
+            ],
+            "标题": "A bond issued to finance a sustainable fishing project is least likely classified as:",
+            "描述": "发行债券用于公司特定环境绩效改善，属于?(选项 SLBs)"
+          },
+          {
+            "题号": "94",
+            "选项列表": [
+              "A. A broader investment universe",
+              "B. High active share and active risk",
+              "C. Lower transaction costs"
+            ],
+            "标题": "In relation to ESG integration, what does the application of exclusions typically result in?",
+            "描述": "exclusions 排除法导致? (选项 high active share and active risk)"
+          },
+          {
+            "题号": "95",
+            "选项列表": [
+              "A. a lower fee structure compared to traditional index-based portfolio",
+              "B. a lower fee structure compared to actively managed funds",
+              "C. a higher level of tracking error compared to traditional index-based portfolio"
+            ],
+            "标题": "An index-based portfolio constructed by excluding meaningful sectors or industries in an index will least likely have:",
+            "描述": "ESG指数投资的特点 (选项 比主动投资成本低，更简单，比传统被动投资成本高)"
+          },
+          {
+            "题号": "96",
+            "选项列表": [
+              "A. universal exclusions",
+              "B. conduct-related exclusions",
+              "C. faith-based exclusions"
+            ],
+            "标题": "
