@@ -1,5 +1,5 @@
 <template>
-  <n-card :title="q?.no + '. ' + q?.title" class="question">
+  <n-card :title="qno + '. ' + q?.title" class="question">
     <div>
       <div>
         <div v-for="( option, index ) in  q.options " :key="index" class="question-option" @click="q.checked = index">
@@ -22,6 +22,9 @@ const props = defineProps({
     default: () => {
       return {}
     }
+  },
+  qno: {
+    type: Number,
   }
 })
 

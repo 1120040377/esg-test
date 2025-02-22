@@ -9,6 +9,10 @@
         <template #header-extra>
           <div style="cursor: pointer;" @click="showModal = false">关闭</div>
         </template>
+        <div>
+          <div>总分：{{ source }}</div>
+          <!-- <n-button>查看错题</n-button> -->
+        </div>
         <div v-if="answerList.length > 0">
           <div v-for="row in answerList">
             <n-tag v-for="col in row" type="info" class="col-item">{{ col.no.padStart(3, '&ensp;') }}： <b>{{ col.val
@@ -19,7 +23,7 @@
     </n-modal>
 
     <div class="page-view">
-      <Question v-for="item in qnList" :data="item" :key="item.questionId"></Question>
+      <Question v-for="(item, index) in qnList" :qno="index + 1" :data="item" :key="item.questionId"></Question>
 
     </div>
 
@@ -29,10 +33,11 @@
 <script setup>
 import Question from '@/components/question.vue'
 // import QN from '@/assets/data.js'
-import QN from '@/assets/data2.js'
+import QN from '@/assets/data3.js'
 import { ref } from 'vue';
 const qnList = ref([])
 const showModal = ref(false)
+const source = ref(0)
 reloadPage()
 function reloadPage() {
   qnList.value = []
@@ -43,19 +48,38 @@ function reloadPage() {
       ...item
     })
   })
+  shuffleArray(qnList.value)
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
 }
 
 const answerList = ref([])
 
 function actionSubmit() {
+  source.value = 0
   const noList = ['A', 'B', 'C', 'D']
   const arr = []
   let curArr = []
-  qnList.value.forEach((item, index) => {
-    curArr.push({
+  const qns = JSON.parse(JSON.stringify(qnList.value))
+  qns.sort((a, b) => a.no - b.no)
+  qns.forEach((item, index) => {
+    const data = {
       no: item.no,
-      val: noList[item.checked] || '-'
-    })
+      val: noList[item.checked] || '-',
+      isRight: noList[item.checked] === item.answer
+    }
+    if (index < 2) {
+      console.log(data, item)
+    }
+    if (data.isRight) {
+      source.value += 1
+    }
+    curArr.push(data)
 
     if (index % 10 === 9) {
       arr.push(curArr)

@@ -6,7 +6,7 @@ export default [
       "B. consider environmental and social factors that are financially material to company business",
       "C. Consider both raw material use and human capital management in their production and operations"
     ],
-    answer: 'C',
+    answer: 'A',
     title: "The concept of “double materiality” requires companies to:",
     description: "双重重要性的定义是什么 (选项 two-way impacts between companies and climate change, the environment, and society)"
   },
@@ -17,7 +17,7 @@ export default [
       "B. biosphere integrity",
       "C. both"
     ],
-    answer: '',
+    answer: 'C',
     title: "According to the Stockholm Resilience Centre, which of the following planetary boundaries have been crossed as a result of human activity?",
     description: "关于 Stockholm Resilience 中哪个边界被突破了 (选项 climate change/ biosphere integrity/ both)"
   },
@@ -28,7 +28,7 @@ export default [
       "B. CDP is a non-profit organization to support companies with their environmental disclosure",
       "C. CDP carbon data are used by major credit rating providers"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following statements is most likely correct about Carbon Disclosure Project (CDP)?",
     description: "CDP 是什么类型的机构 (选项 盈利机构 /NGO)"
   },
@@ -39,7 +39,7 @@ export default [
       "B. Energy and materials",
       "C. Banking"
     ],
-    answer: '',
+    answer: 'C',
     title: "According to a study conducted by McKinsey Co., which of the following industries is at the highest risk from state intervention?",
     description: "State Intervention 对行业影响? (选项 最大选 bank, 最小选 pharmaceutical)"
   },
@@ -50,7 +50,7 @@ export default [
       "B. UK",
       "C. Both"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which region does the Corporate Sustainability Reporting Directive (CSRD) apply to?",
     description: "Corporate Sustainability Reporting Directive (CSRD) 的适用范围 (选项 EU/UK/Both)"
   },
@@ -61,7 +61,7 @@ export default [
       "B. Enhanced return and reduced risk",
       "C. Increased cost and reduced efficiency"
     ],
-    answer: '',
+    answer: 'B',
     title: "What is one of the major benefits of integrating ESG factors into investment decisions?",
     description: "融合 ESG 的好处 (选项 both of enhance return and reduce risk)"
   },
@@ -72,7 +72,7 @@ export default [
       "B. employee relations",
       "C. corruption and bribery"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following is an example of social factor?",
     description: "以下哪个是 Social factors? (选项: lobby/ employee relation/贿赂)"
   },
@@ -83,7 +83,7 @@ export default [
       "B. Planet",
       "C. Philanthropy"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following is one of the three Ps in the triple bottom line concept?",
     description: "三重底线原则 三个 P 是哪三个 (选项 planet)"
   },
@@ -94,7 +94,7 @@ export default [
       "B. Negative Impacts",
       "C. Both Positive and Negative Impacts"
     ],
-    answer: '',
+    answer: 'C',
     title: "The concept of “double materiality” requires companies to disclose the impacts on which of the following aspects?",
     description: "双重重要性要求公司披露 (选项 positive/ negative/ both)"
   },
@@ -105,7 +105,7 @@ export default [
       "B. more local labor employing",
       "C. water pollution caused by beverage production"
     ],
-    answer: '',
+    answer: 'C',
     title: "A beverage manufacturer draws water from a local river for production. Which of the following situations best illustrates the term “negative externality”?",
     description: "公司取用了当地河流的水,哪种情形属于负外部性 negative externality (没高效使用当地河流获取的水资源 /公司取水造成污染)"
   },
@@ -116,7 +116,7 @@ export default [
       "B. negative screening",
       "C. shareholder engagement"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following strategies were first adopted by ethical and faith-based investors?",
     description: "Ethical investment 最开始使用的方法是 (选项 negative screening)"
   },
@@ -127,7 +127,7 @@ export default [
       "B. thematic investment",
       "C. corporate social responsibility"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following investment approaches address social challenges through philanthropy?",
     description: "哪种投资策略通过 Philanthropy做出贡献，选项是影响力投资/主题投资/CSR"
   },
@@ -138,7 +138,7 @@ export default [
       "B. sectors",
       "C. companies"
     ],
-    answer: '',
+    answer: 'C',
     title: "United Nations Global Compact (UNGC) is a collaboration between UN and:",
     description: "UNGC 是 UN 和以下哪个层级之间的约定? (Countries, Sectors, Companies)"
   },
@@ -149,7 +149,7 @@ export default [
       "B. New energy car makers receive government subsidy",
       "C. A company boosts employee retention by improving working condition"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following provides an example of internalization of negative externality?",
     description: "internationalization of negative externality是以下哪个例子? (farmer pay tax for degraded land/ new energy car 拿到 subsidy/ retention of employees due to working condition improvement)"
   },
@@ -160,7 +160,7 @@ export default [
       "B. negative screening",
       "C. corporate engagement"
     ],
-    answer: '',
+    answer: 'B',
     title: "The most popular ESG strategy in Europe at the start of 2020 was:",
     description: "欧洲市场用哪个策略最多 (选项 norms exclusion)"
   },
@@ -171,7 +171,7 @@ export default [
       "B. increased",
       "C. remain the same"
     ],
-    answer: '',
+    answer: 'B',
     title: "Retail investors' interest in sustainable investing has:",
     description: "2012到 2018年, interest by retail investors in responsible investing 是 (选项: increase)"
   },
@@ -182,7 +182,7 @@ export default [
       "B. make asset allocation decisions based on investment objectives",
       "C. provide investment advice to asset owners"
     ],
-    answer: '',
+    answer: 'C',
     title: "What is the role of financial intermediaries in ESG investment value chain?",
     description: "intermediaries的职责是什么 (选项 Provide investment advice to asset owners/Make investment decisions)"
   },
@@ -193,7 +193,7 @@ export default [
       "B. having little influence over asset managers' interpretation of fiduciary duty",
       "C. a wide range of ESG products offered by retail financial advisors"
     ],
-    answer: '',
+    answer: 'B',
     title: "A challenge for asset owners integrating ESG issues is most likely:",
     description: "资产所有者融合 ESG 投资面临的挑战 (选项 limited ESG indices/ retail financial advisers提供了 too many ESG products/ Asset owner 无法影响 these managers'interpretation of fiduciary duty)"
   },
@@ -204,7 +204,7 @@ export default [
       "B. financial products' sustainability claims",
       "C. defining conditions for an economic activity to be considered"
     ],
-    answer: '',
+    answer: 'B',
     title: "What does EU Ecolabel regulations address?",
     description: "EU Ecolabel 的作用是什么? (选项 financial products' sustainability claims)"
   },
@@ -215,7 +215,7 @@ export default [
       "B. It complies with minimum social and governance safeguards",
       "C. It defines economic activity to be considered environmentally sustainable"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following characteristics is associated with the ASEAN Taxonomy for Sustainable Finance?",
     description: "ASEAN Taxonomy 的特征是 (选项 principles-based Foundation Framework/complying with minimum social and governance safeguards)"
   },
@@ -226,7 +226,7 @@ export default [
       "B. venture philanthropy",
       "C. impact investment"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following responsible investment strategies considers both social and environmental impacts, without sacrificing financial return?",
     description: "哪一种负责任投资 Responsible Investment 同时考虑了环境和社会因素, 并且without sacrifice financial return (选项 impact investment)"
   },
@@ -237,7 +237,7 @@ export default [
       "B. insurance houses",
       "C. sovereign wealth funds"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following type of institutes accounts for the highest portion of 100 largest asset owners?",
     description: "在最大的100家资产所有者中, 占比最高的是 (选项 pension fund/insurance/ sovereign funds)"
   },
@@ -248,7 +248,7 @@ export default [
       "B. renewable energy",
       "C. a circular economy"
     ],
-    answer: '',
+    answer: 'C',
     title: "An environmental objective of the EU Taxonomy Regulation is the transition to:",
     description: "下列哪一个是 EU Taxonomy 的目标 (选项 transition to a circular economy)"
   },
@@ -259,7 +259,7 @@ export default [
       "B. fund promoter",
       "C. investment advisor"
     ],
-    answer: '',
+    answer: 'B',
     title: "In relation to ESG market, fund labelers can be classified as:",
     description: "Fund labeler是以下哪种角色? (Governor, fund promoter, investment advisor)"
   },
@@ -270,7 +270,7 @@ export default [
       "B. USD 35 trillion",
       "C. USD 60 trillion"
     ],
-    answer: '',
+    answer: 'B',
     title: "According to market reviews conducted by GSIA, at the start of 2020, sustainable investing assets in the five major markets stood at approximately:",
     description: "最新数据显示可持续投资资产的规模 (20/35/60万亿美金)"
   },
@@ -281,7 +281,7 @@ export default [
       "B. The Paris Agreement",
       "C. The EU taxonomy for sustainable activities"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following sets a 2° target for global temperature increase?",
     description: "哪个协议是控制温度上升在 2 度以内 (选项 巴黎协定)"
   },
@@ -292,7 +292,7 @@ export default [
       "B. Pollution",
       "C. Biodiversity"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following is one of the four realms of the Taskforce on Nature-Related Financial Disclosures (TNFD)?",
     description: "哪一个是 four realms of TNFD (选项 oceans)"
   },
@@ -303,7 +303,7 @@ export default [
       "B. Calculation could scale emissions by companies' revenue or market capitalization",
       "C. Weighted carbon emissions provides an absolute metric of carbon footprinting"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following statements is most likely correct about reporting weighted average carbon intensity recommended by TCFD?",
     description: "TCFD 计算 weighted average carbon intensity 公式的分母是什么 (选项 revenue)"
   },
@@ -314,7 +314,7 @@ export default [
       "B. Equator Principles",
       "C. Net-Zero Industry Act"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following initiatives aims to identify and assess the environmental and social risk in project finance?",
     description: "哪一个关注项目融资中 E 和 S 的问题 determining, assessing, and managing environmental and social risk in project finance (选项 Helsinki Principles/ Equator Principles / xx 法案)"
   },
@@ -325,7 +325,7 @@ export default [
       "B. reuse economy",
       "C. circular economy"
     ],
-    answer: '',
+    answer: 'C',
     title: "100% recycling products and materials is an example of:",
     description: "100% recycle 属于什么 (选项 circular economy)"
   },
@@ -336,7 +336,7 @@ export default [
       "B. displaced workers",
       "C. indigenous people"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following scenarios best illustrates the concept of a 'just' transition? The government pledges a fund to employ:",
     description: "关于公平转型，花钱给什么样的工人叫公平转型?(选项：disabled people/ displaced worker/ indigenous people)"
   },
@@ -347,7 +347,7 @@ export default [
       "B. largest corporations in the world",
       "C. institutional investors"
     ],
-    answer: '',
+    answer: 'A',
     title: "Helsinki Principles are signed by:",
     description: "赫尔辛基原则 Helsinki Principles由谁签署 (选项 各国政府财政部)"
   },
@@ -358,7 +358,7 @@ export default [
       "B. A government pledges a multibillion-dollar fund to employ displaced workers in oil exploitation industry",
       "C. A technology firm's shift to renewable energy sources"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following scenarios provides a best example of 'just' transition?",
     description: "什么是‘Just transition’?(选项 公司第一次发行转型债券煤炭行业 /政府拨款安置 displaced worker)"
   },
@@ -369,7 +369,7 @@ export default [
       "B. Urbanization",
       "C. Mass migration"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is an environmental megatrend with significant social impact?",
     description: "既是环境又是社会的 megatrends (选项 mass migration)"
   },
@@ -380,7 +380,7 @@ export default [
       "B. Arthur Pigou",
       "C. Nicholas Stern"
     ],
-    answer: '',
+    answer: 'A',
     title: "“Dismal theorem” was developed by which of the following economist?",
     description: "Dismal theorem 是谁提出的? (选项 Martin Weitzman)"
   },
@@ -391,7 +391,7 @@ export default [
       "B. Purchased electricity",
       "C. Employee commuting"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following emission sources are considered Scope 3 under the GHG Protocol Standards?",
     description: "Employee commuting 属于碳排放的哪个类型 (选项 scope 3)"
   },
@@ -402,7 +402,7 @@ export default [
       "B. Building a road to transport products from a forestry operation",
       "C. Planting soybeans for production of cooking oil"
     ],
-    answer: '',
+    answer: 'A',
     title: "According to GRI reporting framework, which of the following is most likely to have a direct impact on biodiversity resources?",
     description: "使用地表水灌溉与工厂产生的噪音和光对当地物种的影响属于?(选项 Direct impact)"
   },
@@ -413,7 +413,7 @@ export default [
       "B. no invest in fossil fuels",
       "C. limit “brown” investment"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is a common objective required by both EU Paris-Aligned Benchmarks (EU PABs) and EU Climate Transition Benchmarks (EU CTBs)?",
     description: "EU PABs 和 EU CTBs的共同点是? (选项 都限制棕色投资)"
   },
@@ -424,7 +424,7 @@ export default [
       "B. Task Force on Nature-Related Financial Disclosures (TNFD) framework",
       "C. Integrated Biodiversity Assessment Tool (IBAT)"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is developed as a central global biodiversity database for users to identify biodiversity risks and opportunities?",
     description: "IBAT 是做什么的? (选项 是一个 central global biodiversity database, decision makers can easily access and use this up-to-date information to identify biodiversity risks and opportunities within a project boundary)"
   },
@@ -435,7 +435,7 @@ export default [
       "B. macro channel",
       "C. both"
     ],
-    answer: '',
+    answer: 'B',
     title: "Commodity price volatility represents which kind of financial risk transmission channel?",
     description: "在自然评估中, 金融风险的宏观传导渠道 Macro-channel是? (选项 commodity price volatility)"
   },
@@ -446,7 +446,7 @@ export default [
       "B. provision for revenue loss",
       "C. asset book value"
     ],
-    answer: '',
+    answer: 'A',
     title: "A company needs to enhance its water pollution related disclosure due to the tightening environmental regulations. To account for this, the analyst is most likely to increase the company's:",
     description: "因环保标准的提高，需要公司加强对水污染相关信息进行披露，影响的财务指标是(选项: operational expense/ provision/ asset)"
   },
@@ -457,7 +457,7 @@ export default [
       "B. yellow",
       "C. red"
     ],
-    answer: '',
+    answer: 'B',
     title: "A company project does not explicitly contribute to the transition to a low-carbon economy, the project is most likely graded by CICERO as:",
     description: "某家公司的项目对低碳转型没有帮助，在 Shades of Green 分类中属于？(选项: light green/ Yellow/ Red)"
   },
@@ -468,7 +468,7 @@ export default [
       "B. gender balance",
       "C. fatality"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following is a social factor that impacts external stakeholders?",
     description: "哪一个是 social 影响是外部的影响因素 external (选项 payment of tax/ gender balance/ fatality)"
   },
@@ -479,7 +479,7 @@ export default [
       "B. Offshoring",
       "C. Increased dependency on overseas suppliers"
     ],
-    answer: '',
+    answer: 'A',
     title: "Global COVID-19 pandemic is most closely associated with which of the following social trends?",
     description: "COVID-19让什么上升了 (选项 inequality/ employ opportunities)"
   },
@@ -490,7 +490,7 @@ export default [
       "B. is a voluntary agreement of multinational enterprises that commits them to improving their social performance",
       "C. is a comprehensive set of government-backed recommendations on responsible business conduct"
     ],
-    answer: '',
+    answer: 'C',
     title: "The OECD Guidelines for Multinational Enterprises:",
     description: "OECD 是那种类型 (选项 Government-backed responsible business conduct)"
   },
@@ -501,7 +501,7 @@ export default [
       "B. Developing wastewater treatment requires high initial capital investment",
       "C. Lack of skilled workers is not a huge challenge in maintenance of water treatment plants"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following statements is mostly likely correct about wastewater treatment facilities?",
     description: "水处理设施的特点 (选项 开发成本高 /维护成本低 / unskilled worker 就能干)"
   },
@@ -512,7 +512,7 @@ export default [
       "B. among casual laborers who work only during busy seasons",
       "C. between purchasing agents that source the raw agricultural ingredients"
     ],
-    answer: '',
+    answer: 'A',
     title: "In which area of a food processing company's business is forced labor most likely to be found?",
     description: "forced labor 强迫劳动发生在 (选项 in supply chains in the second tier and beyond)"
   },
@@ -523,7 +523,7 @@ export default [
       "B. Lower consumer goods consumption in the country",
       "C. Lower accumulated savings per person for older people"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following best describes the impact of population aging on national economy?",
     description: "老年人和年轻比 (选项 更多储蓄，更少消费品消费)"
   },
@@ -534,7 +534,7 @@ export default [
       "B. It is an initiative to stimulate fair trade",
       "C. It is an initiative that focuses on the increased prevalence of antimicrobial resistance"
     ],
-    answer: '',
+    answer: 'C',
     title: "What is the FAIRR initiative?",
     description: "FAIRR 是什么 (选项 focuses particularly on the increased prevalence of antimicrobial resistance due to intensive farming practices and poor antibiotic stewardship)"
   },
@@ -545,7 +545,7 @@ export default [
       "B. offshoring",
       "C. reshoring"
     ],
-    answer: '',
+    answer: 'C',
     title: "The trend that companies relocate production from low-wage countries to high-wage countries is referred to:",
     description: "Relocate from low country to high wage country 是？(选项 reshoring)"
   },
@@ -556,7 +556,7 @@ export default [
       "B. geographic and industry level",
       "C. company level"
     ],
-    answer: '',
+    answer: 'B',
     title: "To assess which social factors are material from an investment perspective, an analyst should start at the:",
     description: "Social factor应该先分析哪个 level的 materiality? (选项 geographical and industry level)"
   },
@@ -567,7 +567,7 @@ export default [
       "B. increasing extreme weather events",
       "C. scarcity of fresh water and desertification"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is most likely a factor to cause mass migration?",
     description: "导致 Mass migration 的原因是什么? (选项: the scarcity of fresh water and desertification)"
   },
@@ -578,7 +578,7 @@ export default [
       "B. A coalition of investment companies offering a living wage to their employees",
       "C. A coalition of financial institutions encouraging investees to require living wages in their supply chains"
     ],
-    answer: '',
+    answer: 'C',
     title: "Platform Living Wage Financials (PLWF) is:",
     description: "PLWF设立的目标是什么? (选项: encourage and monitor investee companies to address the non-payment of a living wage in their global supply chains)"
   },
@@ -589,7 +589,7 @@ export default [
       "B. increase salary level in high-tech industries",
       "C. reduced social mobility"
     ],
-    answer: '',
+    answer: 'C',
     title: "Evidence shows that growing income inequality would lead to:",
     description: "growing inequality 会给经济和社会带来什么后果? (选项: social mobility reduction 2、高科技行业薪酬增加 3、家庭结构变化)"
   },
@@ -600,7 +600,7 @@ export default [
       "B. The nominations committee is appointed from among the shareholders",
       "C. There are typically three or five statutory auditors in companies"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is a characteristic of the corporate governance structure in Japan?",
     description: "日本的公司治理结构的特点 (3-5个法定审计师)"
   },
@@ -611,7 +611,7 @@ export default [
       "B. Cadbury Report",
       "C. Sarbanes-Oxley Act"
     ],
-    answer: '',
+    answer: 'A',
     title: "The global financial crisis of 2008 led to the:",
     description: "The financial crisis of 2008 导致了哪个法案的出台 (选项 Cadbury/ Dodd-Frank)"
   },
@@ -622,7 +622,7 @@ export default [
       "B. 60% of the overall materiality threshold is typical",
       "C. 50% to 60% suggests a low level of confidence in the company's financial controls"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following statements about performance materiality number in enhanced auditor report is least likely accurate?",
     description: "Enhance Auditor Reports 关于 performance materiality number 的比例。"
   },
@@ -633,7 +633,7 @@ export default [
       "B. France",
       "C. UK"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following countries released the first corporate governance code in the world?",
     description: "发布 first governance code 的国家是? (选项 UK)"
   },
@@ -644,7 +644,7 @@ export default [
       "B. adequate monitoring and oversight",
       "C. more challenge and debate on performance"
     ],
-    answer: '',
+    answer: 'A',
     title: "Combining the role of chair with the role of CEO would most likely lead to:",
     description: "CEO 和 Chair是同一个人会有什么影响 (选项 excessive concentration of powers)"
   },
@@ -655,7 +655,7 @@ export default [
       "B. ensure the board is balanced and effective",
       "C. determine executives' incentive plan"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which one of the following is the major responsibility of nominations committee?",
     description: "提名委员会 Nominations Committee 的职责是什么? (选项 the board overall is balanced and effective)"
   },
@@ -666,7 +666,7 @@ export default [
       "B. Germany",
       "C. the United Kingdom"
     ],
-    answer: '',
+    answer: 'A',
     title: "A combined CEO and chair position is most likely to be found on a board in:",
     description: "哪个国家是 combine chair and CEO 模式 (选项 法国)"
   },
@@ -677,7 +677,7 @@ export default [
       "B. Dual-class shares",
       "C. Pre-emption rights"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following mechanisms is most likely to protect minority shareholders?",
     description: "下列哪个条款是保护中小股东利益 (选项 pre-emption rights)"
   },
@@ -688,7 +688,7 @@ export default [
       "B. holds cross-directorships in other companies",
       "C. has been a member of the board for two years"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following could typically raise questions regarding an individual director's independence?",
     description: "会影响到董事独立性的是 (选项 director's fee/ cross directorship be director too short time)"
   },
@@ -699,7 +699,7 @@ export default [
       "B. France",
       "C. USA"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following countries created rules to prohibit companies from limiting the liability of the auditor?",
     description: "美国对于审计责任 Auditor Liability 的要求是 (选项 prohibit limit the liability of the auditor)"
   },
@@ -710,7 +710,7 @@ export default [
       "B. holds cross-directorships in other companies",
       "C. serving the board of directors for nearly 3 years"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following would least likely raise questions regarding an individual director's independence?",
     description: "哪种情况下董事会董事最有可能是 independent的情况 (选项 newly retired CFO of a company/ cross directorship/ has been in the board 3 years)"
   },
@@ -721,7 +721,7 @@ export default [
       "B. diversity of expertise",
       "C. diversity of thought"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which type of diversity is most important for a board to be successful?",
     description: "董事会多样化最重要的是什么? (选项 diversity of thought / gender/ skill)"
   },
@@ -732,7 +732,7 @@ export default [
       "B. Supplier payments",
       "C. Lobbying activities"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which area of ethical corporate behavior is most likely to be subject to extraterritorial legislation?",
     description: "司法管辖区设置治外法权一般涉及哪些方面? (选项 bribery and corruption)"
   },
@@ -743,7 +743,7 @@ export default [
       "B. highly indebted nature of such investments",
       "C. an iconic founder in start-up business"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following factor will most likely reduce the governance risks in private equity investment?",
     description: "私募股权投资的特征是 (选项: governance challenge is less, but the margin for error is not always large)"
   },
@@ -754,7 +754,7 @@ export default [
       "B. limited to contract amount",
       "C. waived if financial statements are approved by board"
     ],
-    answer: '',
+    answer: 'A',
     title: "In most markets, auditor's liabilities are:",
     description: "关于审计责任说法正确的是 (选项: In most markets, the auditor has unlimited liability)"
   },
@@ -765,7 +765,7 @@ export default [
       "B. Sarbanes-Oxley Act",
       "C. Dodd-Frank Act"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following regulations led to the foundation of Public Company Accounting Oversight Board (PCAOB)?",
     description: "以下哪个法案推动了PCAOB 的成立? (Sarbanes-Oxley Act, D-F Act, …)"
   },
@@ -776,7 +776,7 @@ export default [
       "B. They ensure that financial reports fairly represent the performance and position of the company",
       "C. They ensure financial reports are free of fraud"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following best describes the role of external auditors?",
     description: "外部审计师的职责是? (confirm the correction of finance numbers/ assure that the financial report fairly represents the real operation and financial performance, assure that there is no fraud…)"
   },
@@ -787,7 +787,7 @@ export default [
       "B. private equity",
       "C. public equity"
     ],
-    answer: '',
+    answer: 'C',
     title: "ESG stewardship approach was first adopted in which of the follow asset class?",
     description: "Stewardship 最早应用于什么资产 (选项 public equity)"
   },
@@ -798,7 +798,7 @@ export default [
       "B. Follow-on dialogue",
       "C. active public engagement"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is a form of individual engagement?",
     description: "下列哪一个属于 individual engagement (选项 generic letter/ soliciting support)"
   },
@@ -809,7 +809,7 @@ export default [
       "B. align relating to ESG concerns",
       "C. align relating to both capital structuring and ESG concerns"
     ],
-    answer: '',
+    answer: 'B',
     title: "At companies that are going concerns, the interests of long-term equity investors and debt investors very much:",
     description: "companies that are going concerns, the interests of equity and debts (选项 align/矛盾)"
   },
@@ -820,7 +820,7 @@ export default [
       "B. desired remuneration policy changes",
       "C. seeking improvements to investor relationships"
     ],
-    answer: '',
+    answer: 'A',
     title: "A Clinical Study of the Hermes UK Focus Fund” showed that the highest level of success in engagement can be achieved by:",
     description: "Hermes UK Focus Fund 显示哪种类型的参与最可能会成功 (选项 restructuring and financial policies/ the desired remuneration policy changes achieved/ the sought improvements to investor relations achieved)"
   },
@@ -831,7 +831,7 @@ export default [
       "B. investor relations",
       "C. company advisor"
     ],
-    answer: '',
+    answer: 'B',
     title: "An investor who wishes to start engagement with a company would most likely make the first contact with:",
     description: "当想要参与被投公司时，通常先与谁联系：(选项 CFO/investor relations/ company's advisor)"
   },
@@ -842,7 +842,7 @@ export default [
       "B. monitoring",
       "C. maximizing near-term financial results"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following activities could most likely enhance the long-term value for investors?",
     description: "下列哪个能为投资者 enhance value (选项 engagement/ monitor/)"
   },
@@ -853,7 +853,7 @@ export default [
       "B. An active investor concerned about the financial viability of a business would vote on auditor pay",
       "C. An active investor concerned about the effectiveness of the board would vote on share issuance"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following statements is most likely correct about voting?",
     description: "关于 voting 哪个说法是对的 (选项 Voting is a necessary but not sufficient element of good stewardship/ 担心一家公司财务的稳健性 financial viability ,要在公司改变外部审计的提案上多关注)"
   },
@@ -864,7 +864,7 @@ export default [
       "B. bond investment",
       "C. real estate investment",
     ],
-    answer: '',
+    answer: 'C',
     title: "Friede, Busch, and Bassen' study shows that positive effect of ESG is mostsignificant on returns of:",
     description: "哪一类资产参与的价值更高? (选项 real estate/ private debt/ 基建类)"
   },
@@ -875,7 +875,7 @@ export default [
       "B. US",
       "C. UK",
     ],
-    answer: '',
+    answer: 'C',
     title: "The practice of stewardship was first adopted in which of the followingcountries?",
     description: "Stewardship 最早在哪个国家使用 (选项 德国 / 美国 / 英国)"
   },
@@ -886,7 +886,7 @@ export default [
       "B. seek a direct discussion with senior management",
       "C. vote on specific issues",
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following is most likely a typical engagement method for passiveinvestors?",
     description: "最符合 Passive investor参与的方式是? (选项: write a letter to companies which  was found a ESG risk issue/ seek a direct discussion with senior management/ vote  on specific issues)"
   },
@@ -897,7 +897,7 @@ export default [
       "B. An immediate increase in asset write-off",
       "C. An increase in the value of company's corporate debt",
     ],
-    answer: '',
+    answer: 'A',
     title: "Given that a company is facing imminent enforcement of environmentalstandards, the most likely impact would be:",
     description: "已知公司面临着马上就要实施的关于保护环境条例 environmental standard的处罚,  最有可能产生的影响是 (选项 increase provision / increase asset write-off/increase debt)"
   },
@@ -908,7 +908,7 @@ export default [
       "B. harmonized",
       "C. mandatory",
     ],
-    answer: '',
+    answer: 'A',
     title: "Globally, ESG disclosure framework is:",
     description: "全球的 ESG 披露标准是 (选项 fragment 和谐的 强制的)"
   },
@@ -919,7 +919,7 @@ export default [
       "B. Ownership",
       "C. Exit",
     ],
-    answer: '',
+    answer: 'A',
     title: "As part of ESG assessment for private equity, at which stage does the process ofESG screening and due diligence take place?",
     description: "ESG Integration in Private Equity 方面 screening and due diligence 在哪个阶段"
   },
@@ -930,7 +930,7 @@ export default [
       "B. The scorecard techniques are hardly used on private companies",
       "C. The scorecard technique can be adapted to scoring sovereign bonds"
     ],
-    answer: '',
+    answer: 'B',
     title: "Regarding the use of scorecards, which of the following statements is least likely correct?",
     description: "哪一个说法是正确的 (选项 Scorecards 可以用于 sovereign bond analysis)"
   },
@@ -941,7 +941,7 @@ export default [
       "B. Study shows a significant correlation between country ESG risk and credit ratings",
       "C. There exists a high correlation among third-party ESG ratings"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following statements is most accurate?",
     description: "下列哪个说法是对的 (选项 不同评级机构给的 ESG 评分相关性高 不同评级机构给的信用评分相关性低 high correlation of Country ESG Scores and CRA Ratings)"
   },
@@ -952,7 +952,7 @@ export default [
       "B. Sovereign Debt",
       "C. Infrastructure"
     ],
-    answer: '',
+    answer: 'B',
     title: "In the context of ESG integration, which asset class is most likely to explicitly involve considerations of anti-corruption measures?",
     description: "哪一类资产整合会涉及 anti-corruption (选项 private debt/ sovereign debt/infrastructure)"
   },
@@ -963,7 +963,7 @@ export default [
       "B. lower target P/E ratio",
       "C. lower estimated capital expenditures"
     ],
-    answer: '',
+    answer: 'B',
     title: "If a company increases its ESG risk compared to its peers, the most appropriate adjustment to valuation models would be to reduce its:",
     description: "一家公司 ESG Risk 更高导致的结果是 (选项 lower PE)"
   },
@@ -974,7 +974,7 @@ export default [
       "B. Bonds that are evergreen and continue for a specified duration",
       "C. Bonds that get the green light based on governance policies"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following statements best describes a green bond?",
     description: "绿色债券的定义 (选项 finance projects with an intended environmental benefit)"
   },
@@ -985,7 +985,7 @@ export default [
       "B. Investors ask the company for specific data on its material ESG information",
       "C. Securities with high ESG risk are marked and further investigated or excluded"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following best describes red flag indicators?",
     description: "Red flag indicators 定义 (选项 Securities with high ESG risk are flagged and investigated further or excluded)"
   },
@@ -996,7 +996,7 @@ export default [
       "B. Light green",
       "C. Dark green"
     ],
-    answer: '',
+    answer: 'C',
     title: "A sustainability bond funding a company that develops and manufactures wind power equipment would be graded by CICERO as:",
     description: "风能项目属于什么 (选项 Dark green)"
   },
@@ -1007,7 +1007,7 @@ export default [
       "B. nontraditional providers only",
       "C. both traditional providers and nontraditional providers"
     ],
-    answer: '',
+    answer: 'C',
     title: "With respect to ESG data and research providers, the level of automation is low or medium in:",
     description: "ESG数据的自动化程度：高/低 (9月新增)"
   },
@@ -1018,7 +1018,7 @@ export default [
       "B. Market competition behavior",
       "C. GHG emission"
     ],
-    answer: '',
+    answer: 'A',
     title: "According to SASB materiality map, which of the following is considered the most significant ESG factor for Healthcare industry?",
     description: "SASB materiality map 里 Healthcare industry 最重要的 ESG factor, (选项 Customer Welfare/ market competition, GHG emission)"
   },
@@ -1029,7 +1029,7 @@ export default [
       "B. Company B —— it has a brief emission policy and reports no pollution incidents",
       "C. Company C —— it has a detailed emission policy and reports minor air pollution"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following companies is likely to have the lowest ESG risk?",
     description: "有一个题给了一个表格, 问哪个国家 have the lowest ESG risk"
   },
@@ -1040,7 +1040,7 @@ export default [
       "B. interpret satellite imagery to assess issuers' carbon footprint",
       "C. aggregate ESG data into an ESG score"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is most likely an example of using application programming interfaces (API) in quantitative ESG analysis?",
     description: "API 在量化 ESG analysis 中应用的作用是什么? (use application programming interfaces to compile and assess large volumes of data efficiently)"
   },
@@ -1051,7 +1051,7 @@ export default [
       "B. medium risk",
       "C. high risk"
     ],
-    answer: '',
+    answer: 'A',
     title: "If the company has not considered data privacy and customer information protection, then its risk level is most likely?",
     description: "如果一个科技公司目前正处于技术研究和研发阶段且还没有推出市场化的产品，该公司没有考虑数据信息安全与客户隐私保护，那么以下关于风险等级的论述哪项是正确的? (Low risk, Medium risk, High risk)"
   },
@@ -1062,7 +1062,7 @@ export default [
       "B. lower active risk",
       "C. no active risk"
     ],
-    answer: '',
+    answer: 'A',
     title: "Portfolios that optimize for multiple factors might result in:",
     description: "多因子优化导致 portfolios that optimize for multiple factors (选项 higher active risk)"
   },
@@ -1073,7 +1073,7 @@ export default [
       "B. quantitative investment",
       "C. discretionary investment"
     ],
-    answer: '',
+    answer: 'B',
     title: "An investment style characterized by rule-based approach and usage of large datasets is most likely defined as:",
     description: "投资特征为 Rule-based, big datasets 属于什么方式 (选项 quantitative/fundamental/ discretionary)"
   },
@@ -1084,7 +1084,7 @@ export default [
       "B. social bond",
       "C. blue bond"
     ],
-    answer: '',
+    answer: 'B',
     title: "A bond issued to finance a sustainable fishing project is least likely classified as:",
     description: "发行债券用于公司特定环境绩效改善，属于?(选项 SLBs)"
   },
@@ -1095,7 +1095,7 @@ export default [
       "B. High active share and active risk",
       "C. Lower transaction costs"
     ],
-    answer: '',
+    answer: 'B',
     title: "In relation to ESG integration, what does the application of exclusions typically result in?",
     description: "exclusions 排除法导致? (选项 high active share and active risk)"
   },
@@ -1106,7 +1106,7 @@ export default [
       "B. a lower fee structure compared to actively managed funds",
       "C. a higher level of tracking error compared to traditional index-based portfolio"
     ],
-    answer: '',
+    answer: 'A',
     title: "An index-based portfolio constructed by excluding meaningful sectors or industries in an index will least likely have:",
     description: "ESG指数投资的特点 (选项 比主动投资成本低，更简单，比传统被动投资成本高)"
   },
@@ -1117,7 +1117,7 @@ export default [
       "B. conduct-related exclusions",
       "C. faith-based exclusions"
     ],
-    answer: '',
+    answer: 'A',
     title: "An ESG fund which refrains from holding investments involved with controversial arms manufacturing is best described as applying:",
     description: "争议性武器排除属于什么策略? (选项 Universal exclusions)"
   },
@@ -1128,7 +1128,7 @@ export default [
       "B. Private equity",
       "C. Infrastructure"
     ],
-    answer: '',
+    answer: 'C',
     title: "According to a study by Mercer Consulting, which asset class has the highest availability of Sustainability strategy?",
     description: "根据 Mercer 哪一类资产 Availability of Sustainability 最高 (选项 Real estate/Private equity/ Infrastructure)"
   },
@@ -1139,7 +1139,7 @@ export default [
       "B. clean energy projects",
       "C. social projects"
     ],
-    answer: '',
+    answer: 'A',
     title: "Transition bonds would most likely provide financing to:",
     description: "Transition bond 最可能投资方向是 (选项 降低GHG emission/ 清洁能源 / Social)"
   },
@@ -1150,7 +1150,7 @@ export default [
       "B. ability to reflect changes in baseline assumptions over different time horizons",
       "C. low sensitivity to changes in market conditions"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following statements is most likely correct about the Mean-Variance Optimization (MVO) model?",
     description: "MVO 模型的特点是 (选项 high sensitivity to baseline assumptions)"
   },
@@ -1161,7 +1161,7 @@ export default [
       "B. apply consistent sustainability ratings between funds",
       "C. prevents wholesale exclusions of poorly rated industries"
     ],
-    answer: '',
+    answer: 'C',
     title: "When applying ESG screenings, what is most likely a benefit of using peer group data?",
     description: "为什么要使用 peer group data (选项 prevents wholesale exclusions of poorly rated industries)"
   },
@@ -1172,7 +1172,7 @@ export default [
       "B. often used to hedge against inflation",
       "C. unstable cash flow and cash conversion"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following best describes the characteristics of water funds?",
     description: "water funds 的特点是 (选项 hedges against inflation)"
   },
@@ -1183,7 +1183,7 @@ export default [
       "B. sustainability-linked bond",
       "C. social bond"
     ],
-    answer: '',
+    answer: 'C',
     title: "A company issues a bond to fund transitioning its employees to a safer workplace, but it does not commit to specific improvements or outcomes. This bond is best classified as a:",
     description: "公司花钱让员工 transition to a safer workplace 发债属于什么债券? (选项 transition bond/SLB/ social bond)"
   },
@@ -1194,7 +1194,7 @@ export default [
       "B. positive screening",
       "C. thematic investment"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following investment strategies is most likely to have a diversified holding?",
     description: "实现 diversified portfolio要用哪种 screening 方式呢? (选项 Positive screening/Thematic investment/ negative screening)"
   },
@@ -1205,7 +1205,7 @@ export default [
       "B. CEOs and company employees",
       "C. money manager and mutual fund investors"
     ],
-    answer: '',
+    answer: 'B',
     title: "The concept of 'double-agency' does not include the relationship between?",
     description: "double-agency 是哪两个代理 (选项 CEO and money manager)"
   },
@@ -1216,7 +1216,7 @@ export default [
       "B. through governance arrangements",
       "C. by having ongoing dialogues"
     ],
-    answer: '',
+    answer: 'C',
     title: "With private debt investments, how would fund manager propose to undertake engagement?",
     description: "投资 private debt, 如何 effective engagement (选项 Voting/ ongoing dialogue)"
   },
@@ -1227,7 +1227,7 @@ export default [
       "B. Reputational risk",
       "C. Awareness of the financial impacts of climate change"
     ],
-    answer: '',
+    answer: 'B',
     title: "Which of the following is most likely the primary driver of ESG investment for sovereign wealth funds?",
     description: "Primary driver for ESG investment of Sovereign wealth fund is? (选项 reputation risk)"
   },
@@ -1238,7 +1238,7 @@ export default [
       "B. Awareness of the financial impacts of climate change",
       "C. recognition of the implications of lengthy investment time horizons"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following is most likely the primary driver of ESG investment for a life insurer?",
     description: "Primary driver for ESG investment of Life insurer is? (选项 Recognition of implications of lengthy investment time horizons/ Reputational risk/ Awareness of financial impacts of climate change)"
   },
@@ -1249,7 +1249,7 @@ export default [
       "B. The International Corporate Governance Network (ICGN)",
       "C. Principle of Responsible Investment (PRI) guidelines"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following suggests that short-term underperformance should not be a primary concern for the client?",
     description: "哪个建议不要注重短期收益 emphasizes that short-term underperformance is not itself likely to give rise to undue concern for the client (选项 Brunel Asset Management Accord)"
   },
@@ -1260,7 +1260,7 @@ export default [
       "B. Review of external managers",
       "C. Material ESG factors"
     ],
-    answer: '',
+    answer: 'A',
     title: "According to McKinsey's proposed six dimensions of investing, which of the following is an element of investment tools and processes dimension?",
     description: "下列哪一个属于 McKinsey的 Tools and processes (选项 Proactive engagement/Review of external managers)"
   },
@@ -1271,7 +1271,7 @@ export default [
       "B. investment mandate",
       "C. performance management"
     ],
-    answer: '',
+    answer: 'B',
     title: "According to McKinsey's report, Consideration of ESG factors is included in which of the following investment dimensions?",
     description: "在 McKinsey的框架中 Consideration of ESG factors属于哪个维度 (选项Investment mandate)"
   },
@@ -1282,7 +1282,7 @@ export default [
       "B. individual investor",
       "C. foundation"
     ],
-    answer: '',
+    answer: 'C',
     title: "Which of the following asset owners features the longest investment time horizon?",
     description: "Investment time horizon 最长的 asset owner是? (选项 foundation)"
   },
@@ -1293,7 +1293,7 @@ export default [
       "B. Reputational risk",
       "C. Awareness of the financial impacts of climate change"
     ],
-    answer: '',
+    answer: 'A',
     title: "Which of the following is most likely the primary driver of ESG investment for a defined benefit pension scheme?",
     description: "Primary driver for Defined Benefit Pension and defined contribution pension 是? (选项: Fiduciary duty)"
   },
@@ -1304,7 +1304,7 @@ export default [
       "B. individual investor",
       "C. sovereign wealth fund"
     ],
-    answer: '',
+    answer: 'B',
     title: "Loss aversion best describes the risk mindset of which of the following client types?",
     description: "以下哪个是最 loss aversion的? (选项: 慈善捐赠/ 个人 /主权基金)"
   },
@@ -1315,7 +1315,7 @@ export default [
       "B. question ii",
       "C. both questions"
     ],
-    answer: '',
+    answer: 'C',
     title: "A fund manager needs to address which of the following question(s) in shaping an investment mandate?",
     description: "在 mandate 中需要问什么问题 Is ESG a risk management tool or a source of investment advantage? Which aspects of ESG most matter from the perspective of the asset owner? (选项：第一个问题/第二个问题/两个问题都问)"
   },
