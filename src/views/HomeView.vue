@@ -11,12 +11,16 @@
         </template>
         <div>
           <div>总分：{{ source }}</div>
-          <!-- <n-button>查看错题</n-button> -->
         </div>
         <div v-if="answerList.length > 0">
           <div v-for="row in answerList">
             <n-tag v-for="col in row" type="info" class="col-item">{{ col.no.padStart(3, '&ensp;') }}： <b>{{ col.val
                 }}</b></n-tag>
+          </div>
+          <div>
+            <Question mode="wrong" v-for="(item, index) in wrongQnList" :qno="item.no" :data="item"
+              :key="item.questionId">
+            </Question>
           </div>
         </div>
       </n-card>
@@ -24,9 +28,7 @@
 
     <div class="page-view">
       <Question v-for="(item, index) in qnList" :qno="index + 1" :data="item" :key="item.questionId"></Question>
-
     </div>
-
   </div>
 </template>
 
@@ -34,7 +36,7 @@
 import Question from '@/components/question.vue'
 // import QN from '@/assets/data.js'
 import QN from '@/assets/data3.js'
-import { ref } from 'vue';
+import { ref, computed } from 'vue';
 const qnList = ref([])
 const showModal = ref(false)
 const source = ref(0)
@@ -59,6 +61,11 @@ function shuffleArray(array) {
 }
 
 const answerList = ref([])
+
+const wrongQnList = computed(() => {
+  const noList = ['A', 'B', 'C', 'D']
+  return qnList.value.filter(item => noList[item.checked] !== item.answer)
+})
 
 function actionSubmit() {
   source.value = 0

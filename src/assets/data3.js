@@ -915,7 +915,7 @@ export default [
   {
     no: "84",
     options: [
-      ". Deal Sourcing",
+      "A. Deal Sourcing",
       "B. Ownership",
       "C. Exit",
     ],
