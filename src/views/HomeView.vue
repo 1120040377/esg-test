@@ -14,7 +14,9 @@
         </div>
         <div v-if="answerList.length > 0">
           <div v-for="row in answerList">
-            <n-tag v-for="col in row" type="info" class="col-item">{{ col.no.padStart(3, '&ensp;') }}： <b>{{ col.val
+            <n-tag v-for="col in row" :type="col.isRight ? 'info' : 'error'" class="col-item">{{ col.no.padStart(3,
+        '&ensp;')
+              }}： <b>{{ col.val
                 }}</b></n-tag>
           </div>
           <div>
